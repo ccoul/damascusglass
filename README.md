@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Damsascus Glass
 
-You can use the [editor on GitHub](https://github.com/ccoul/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+At Damascus Glass we strive to craft the highest of quality, vintage glass bottle smokeware from your favorite glass bottle designs.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Located in Newark, DE, the hotspot of drinking culture in the middle of the East Coast, gives Damascus Glass a prime area for production at the highest degree.
 
 ### Markdown
 
